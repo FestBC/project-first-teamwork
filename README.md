@@ -24,7 +24,7 @@ This website offers luxury yacht rentals, showcasing stunning yacht visuals and 
 | 🖥️ **User-Friendly Interface**    | Easy navigation through a clean, modern design.            |
 | 📜 **Detailed Listings**          | Clear presentations of yacht specifications and amenities. |
 | ⭐ **Customer Reviews & Ratings** | Testimonials from past renters to build trust.             |
-| 🎉 **Rent Form**                  | Form for renting a yacht.                                  |
+| 📝 **Rent Form**                  | Form for renting a yacht.                                  |
 
 ## 📜 License
 
