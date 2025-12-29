@@ -9,7 +9,7 @@ This website offers luxury yacht rentals, showcasing stunning yacht visuals and 
 ## 🛠️ Tech stack
 
 | Category     | Technology |
-|--------------|------------|
+| ------------ | ---------- |
 | Markup       | HTML5      |
 | Styling      | CSS3       |
 | Language     | JavaScript |
@@ -17,8 +17,8 @@ This website offers luxury yacht rentals, showcasing stunning yacht visuals and 
 
 ## 🌟 Features
 
-| Feature                       | Description                                                      |
-|-------------------------------|------------------------------------------------------------------|
+| Feature                           | Description                                                  |
+| --------------------------------- | ------------------------------------------------------------ |
 | 🛥️ **Luxury Yacht Rentals**       | Exclusive offerings for luxury experiences at sea.           |
 | 🌅 **Stunning Visuals**           | High-quality images showcasing various yachts.               |
 | 🖥️ **User-Friendly Interface**    | Easy navigation through a clean, modern design.              |
@@ -29,3 +29,7 @@ This website offers luxury yacht rentals, showcasing stunning yacht visuals and 
 | 🏖️ **Highlighted Destinations**   | Featured locations ideal for yacht adventures.               |
 | ⭐ **Customer Reviews & Ratings** | Testimonials from past renters to build trust.               |
 | 🎉 **Promotional Offers**         | Special packages or discounts to attract new customers.      |
+
+## 📜 License
+
+[Licensed with GNU GPL 3.0](https://github.com/FestBC/project-first-teamwork?tab=GPL-3.0-1-ov-file). 🐂
