@@ -17,18 +17,14 @@ This website offers luxury yacht rentals, showcasing stunning yacht visuals and 
 
 ## 🌟 Features
 
-| Feature                           | Description                                                  |
-| --------------------------------- | ------------------------------------------------------------ |
-| 🛥️ **Luxury Yacht Rentals**       | Exclusive offerings for luxury experiences at sea.           |
-| 🌅 **Stunning Visuals**           | High-quality images showcasing various yachts.               |
-| 🖥️ **User-Friendly Interface**    | Easy navigation through a clean, modern design.              |
-| 📜 **Detailed Listings**          | Clear presentations of yacht specifications and amenities.   |
-| 📅 **Calendar Availability**      | Interactive calendar for booking availability.               |
-| 🎨 **Customizable Experiences**   | Options to tailor experiences according to user preferences. |
-| 📞 **Contact and Inquiry Forms**  | Easy access to get more information or to make reservations. |
-| 🏖️ **Highlighted Destinations**   | Featured locations ideal for yacht adventures.               |
-| ⭐ **Customer Reviews & Ratings** | Testimonials from past renters to build trust.               |
-| 🎉 **Promotional Offers**         | Special packages or discounts to attract new customers.      |
+| Feature                           | Description                                                |
+| --------------------------------- | ---------------------------------------------------------- |
+| 🛥️ **Luxury Yacht Rentals**       | Exclusive offerings for luxury experiences at sea.         |
+| 🌅 **Stunning Visuals**           | High-quality images showcasing various yachts.             |
+| 🖥️ **User-Friendly Interface**    | Easy navigation through a clean, modern design.            |
+| 📜 **Detailed Listings**          | Clear presentations of yacht specifications and amenities. |
+| ⭐ **Customer Reviews & Ratings** | Testimonials from past renters to build trust.             |
+| 🎉 **Rent Form**                  | Form for renting a yacht.                                  |
 
 ## 📜 License
 
